@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewExplicitIntent3</string>
+    <string name="textviewmaintitle">First Activity</string>
+    <string name="btnFirst">FIRST BUTTON</string>
+    <string name="textViewsecondTitle">Second Activity</string>
+    <string name="btnSecond">Second Activity</string>
+    <string name="textViewthirdTitle">Third Button</string>
+    <string name="btnThird">Third Button</string>
+</resources>
